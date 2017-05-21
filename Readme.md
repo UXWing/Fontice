@@ -29,5 +29,7 @@ http://fontice.com/how-to-use-web-font-icons/
 http://fontice.com/use-fontice-icons-in-css/
 
 
-
+## License
 Fontice icons is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+Note: All brand logos/icons used in Fontice project are trademarks of their respective owners/entities. The use of these trademarks does not indicate endorsement of the trademark holder by Fontice.com
