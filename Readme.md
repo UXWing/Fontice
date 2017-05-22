@@ -1,6 +1,6 @@
 # Fontice icons
 
-Fontice Icons exclusive collection of carefully Crafted icon sets which give a lot of vector icons in one singal font.
+Fontice Icons exclusive collection of carefully crafted icon sets which give a lot of vector icons in one singal font.
 
 ## Powerful Features
 Single font for all icons
