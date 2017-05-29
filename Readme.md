@@ -35,7 +35,7 @@ http://fontice.com/use-fontice-icons-in-css/
 
 ## Feedback
 If you have issues, recommendations, ideas or request new icons please let us know:
-Here Github OR http://fontice.com/send-feedback-or-request-icon/
+Here Github OR [Send Feedback](http://fontice.com/send-feedback-or-request-icon/)
 
 
 ## License
