@@ -39,6 +39,6 @@ Here Github OR http://fontice.com/send-feedback-or-request-icon/
 
 
 ## License
-http://fontice.com/license/
+[MIT Licence and Open Font License.](http://fontice.com/license/)
 
 Note: All brand logos/icons used in Fontice project are trademarks of their respective owners/entities. The use of these trademarks does not indicate endorsement of the trademark holder by Fontice.com
