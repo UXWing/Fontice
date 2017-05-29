@@ -33,12 +33,12 @@ http://fontice.com/use-fontice-icons-in-css/
 - First release
 
 
-#Feedback
+# Feedback
 If you have issues, recommendations, ideas or request new icons please let us know:
 Here Github OR [Feedback] (http://fontice.com/send-feedback-or-request-icon/)
 
 
 # License
-Fontice icons is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+http://fontice.com/license/
 
 Note: All brand logos/icons used in Fontice project are trademarks of their respective owners/entities. The use of these trademarks does not indicate endorsement of the trademark holder by Fontice.com
