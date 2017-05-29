@@ -29,7 +29,7 @@ http://fontice.com/use-fontice-icons-in-css/
 
 
 ## Changelog
-### Version 1.10
+### Version 1.00
 - First release
 
 
