@@ -1,4 +1,4 @@
-# Fontice icons
+# Fontice icons 
 
 Fontice Icons exclusive collection of carefully crafted icon sets which give a lot of vector icons in one singal font.
 
@@ -21,10 +21,10 @@ No programing language required
  5. Discover icons from http://fontice.com/
  6. Apply html code <i>fi fi-classname</i>
 
-### How to use in Fontice icons in HTML 
+### How to use in Fontice icons in HTML
 http://fontice.com/how-to-use-web-font-icons/
 
-### How to use in Fontice icons in CSS 
+### How to use in Fontice icons in CSS
 http://fontice.com/use-fontice-icons-in-css/
 
 
