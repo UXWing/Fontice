@@ -18,17 +18,17 @@ No programing language required
  2. Copy the `fontice-iconsfont.css` or `fontice-iconsfont.min.css` to your project.
  3. Copy the `fonts` folder to your project.
  4. Ensure the font urls within `CSS` properly reference the "fonts" path within your project.
- 5. Discover icons from http://fontice.com/
+ 5. Discover icons from https://uxwing.com
  6. Apply html code <i>fi fi-classname</i>
 
 ### How to use icons in your Design
- http://fontice.com/how-to-use-web-font-icons/
+ https://uxwing.com/#htmlusecode
 
 ### How to use font icon in HTML
-http://fontice.com/how-to-use-web-font-icons/
+https://uxwing.com/#htmlusecode
 
 ### How to use font icon in CSS
-http://fontice.com/use-fontice-icons-in-css/
+https://uxwing.com/#cssusecode
 
 
 ## Changelog
@@ -38,10 +38,10 @@ http://fontice.com/use-fontice-icons-in-css/
 
 ## Feedback
 If you have issues, recommendations, ideas or request new icons please let us know:
-Here Github OR [Send Feedback](http://fontice.com/send-feedback-or-request-icon/)
+Here Github OR [Send Feedback](https://uxwing.com/contact-us/)
 
 
 ## License
-[MIT Licence and Open Font License.](http://fontice.com/license/)
+[MIT Licence and Open Font License.](https://uxwing.com/license/)
 
 Note: All brand logos/icons used in Fontice project are trademarks of their respective owners/entities. The use of these trademarks does not indicate endorsement of the trademark holder by Fontice.com
