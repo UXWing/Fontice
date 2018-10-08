@@ -1,16 +1,15 @@
-/*Fontice icons 1.0 http://fontice.com/*/
-
+/*UXWing icons 1.0 https://uxwing.com/*/
 @font-face {
-  font-family: 'Fontice-IconsFont';
-  src: url('../fonts/Fontice-IconsFont.eot?3up95z');
-  src: url('../fonts/Fontice-IconsFont.eot?3up95z#iefix') format('embedded-opentype'), url('../fonts/Fontice-IconsFont.ttf?3up95z') format('truetype'), url('../fonts/Fontice-IconsFont.woff?3up95z') format('woff'), url('../fonts/Fontice-IconsFont.svg?3up95z#Fontice-IconsFont') format('svg');
+  font-family: 'uxwing-iconsfont';
+  src: url('../fonts/uxwing-iconsfont.eot?3up95z');
+  src: url('../fonts/uxwing-iconsfont.eot?3up95z#iefix') format('embedded-opentype'), url('../fonts/uxwing-iconsfont.ttf?3up95z') format('truetype'), url('../fonts/uxwing-iconsfont.woff?3up95z') format('woff'), url('../fonts/uxwing-iconsfont.svg?3up95z#uxwing-iconsfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 .fi {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Fontice-IconsFont' !important;
+  font-family: 'uxwing-iconsfont' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
