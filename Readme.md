@@ -21,16 +21,6 @@ No programing language required
  5. Discover icons from https://uxwing.com
  6. Apply html code <i>fi fi-classname</i>
 
-### How to use icons in your Design
- https://uxwing.com/#htmlusecode
-
-### How to use font icon in HTML
-https://uxwing.com/#htmlusecode
-
-### How to use font icon in CSS
-https://uxwing.com/#cssusecode
-
-
 ## Changelog
 ### Version 1.00
 - First release
