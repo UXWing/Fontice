@@ -32,6 +32,6 @@ Here Github OR [Send Feedback](https://uxwing.com/contact-us/)
 
 
 ## License
-[MIT Licence and Open Font License.](https://uxwing.com/license/)
+MIT Licence and Open Font License.
 
 Note: All brand logos/icons used in UXWing icon project are trademarks of their respective owners/entities. The use of these trademarks does not indicate endorsement of the trademark holder by uxwing.com
