@@ -27,8 +27,7 @@ No programing language required
 
 
 ## Feedback
-If you have issues, recommendations, ideas or request new icons please let us know:
-Here Github OR [Send Feedback](https://uxwing.com/contact-us/)
+If you have issues, recommendations, ideas or request new icons please let us know
 
 
 ## License
