@@ -1,4 +1,4 @@
-# 538+ Free Icon Fonts for Web Design
+# Free icons | SVG icons | PNG Icons | Font Icons
 
 UXWing Icons exclusive collection of carefully crafted icon sets which give a lot of vector icons in one single font.
 
