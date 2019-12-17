@@ -1,8 +1,8 @@
-# Free icons | SVG icons | PNG Icons | Font Icons
+# Free vector icons | SVG icons | PNG Icons | Font Icons
 
 UXWing Icons exclusive collection of carefully crafted icon sets which give a lot of vector icons in one single font.
 
-## Discover All SVG and PNG icons https://uxwing.com
+Discover All SVG and PNG icons https://uxwing.com
 
 ## Getting Started with font icons
  1. Download and extract the font pack
@@ -11,7 +11,6 @@ UXWing Icons exclusive collection of carefully crafted icon sets which give a lo
  4. Ensure the font urls within `CSS` properly reference the "fonts" path within your project.
  5. Discover icons from https://uxwing.com/free-icon-fonts/
  6. Apply html code <i>fi fi-classname</i>
- 
  
 ## Powerful Features
 Single font for all icons
